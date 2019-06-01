@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:surflutter/pages/qa/qa_page.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -12,11 +13,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text('SurFlutter'),
       ),
-      body: Column(
-        children: <Widget>[
-          
-        ],
-      ),
+      body: QAPage(),
     );
   }
 }
