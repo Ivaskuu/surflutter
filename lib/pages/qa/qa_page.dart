@@ -174,7 +174,7 @@ class TagList extends StatelessWidget {
     return ListView(
       scrollDirection: Axis.horizontal,
       children: List.filled(
-        15,
+        1,
         TagWidget(
           title: title,
           color: color,
