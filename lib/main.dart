@@ -9,8 +9,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'SurFlutter',
       theme: ThemeData(
-        accentColor: Color(0xFF661DE9),
-        primaryColor: Color(0xFF661DE9),
+        accentColor: Color(0xFF0178FF),
+        primaryColor: Color(0xFF0178FF),
         backgroundColor: Colors.white,
         scaffoldBackgroundColor: Colors.white,
         fontFamily: 'GoogleSans',
