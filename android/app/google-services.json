@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381276808998",
+    "firebase_url": "https://surflutter.firebaseio.com",
+    "project_id": "surflutter",
+    "storage_bucket": "surflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381276808998:android:7e01f2cbc566c09d",
+        "android_client_info": {
+          "package_name": "com.surflutter_team.surflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381276808998-n9d56shbav6fuvm3613hoqmvhjj472mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surflutter_team.surflutter",
+            "certificate_hash": "ef699e137e8a812a82645c5fc1c2774fda89be67"
+          }
+        },
+        {
+          "client_id": "381276808998-g3gm38fgpk9hh4ouqudtnkftjrnmdekd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQNBYPt20EoaNMoVAj57JY6jDMJGgmpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381276808998-g3gm38fgpk9hh4ouqudtnkftjrnmdekd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
